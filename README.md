@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Question Answering System
 
 A production-ready Medical Question Answering System using Retrieval-Augmented Generation (RAG) with Gemma-2B-IT (LoRA fine-tuned) and FAISS-based semantic retrieval.
@@ -35,3 +36,6 @@ This system uses a modular clean architecture:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# MedQA-System
+>>>>>>> 54141a745596c08c4f1617f57209209d29686735
